@@ -1,0 +1,2 @@
+{"@caller":"C:/Users/RaySubha/Go/src/log-hclog-prac/logPack/main.go:25","@level":"error","@message":"Invalid input for ParseInt","@module":"my-app","error":null,"input":"5.5","msg":"hello"}
+{"@caller":"C:/Users/RaySubha/Go/src/log-hclog-prac/logPack/main.go:26","@level":"error","@message":"This is a binarry input","@module":"my-app","bits":17}
